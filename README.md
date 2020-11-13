@@ -31,7 +31,7 @@ if you don't want password or admin password just type "none".
 
 ## How to use client?
 
-1. Run `chat_client_gui.exe` file.
+1. Run `chat_client_gui.exe` file(`client_relase/chat_client_gui.exe`).
 2. Click `Add server` and type server login data.
 3. If you are connected, just type message and click send to send it.
 4. If you want to kick someone, you need to be a admin. If you are admin, select user from the list and click `kick`
